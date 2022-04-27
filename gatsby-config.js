@@ -49,8 +49,8 @@ if (env.errors) {
       {
         resolve: `gatsby-source-contentful`,
         options: {
-          spaceId: process.env.GATSBY_CONTENTFUL_SPACE_ID,
-          accessToken: process.env.GATSBY_CONTENTFUL_API_KEY,
+          spaceId: '9g0etpnlgq2l',
+          accessToken: 'ehTpB18mvphsWWFva2i4Cd_MBtvbdvSyrEIt1KR_WJw',
           environment: process.env.GATSBY_CONTENTFUL_ENVIRONMENT,
           downloadLocal: process.env.GATSBY_CONTENTFUL_DOWNLOAD_LOCAL,
           host: process.env.GATSBY_CONTENTFUL_HOST,
