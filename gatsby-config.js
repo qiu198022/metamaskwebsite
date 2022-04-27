@@ -29,7 +29,7 @@ if (env.errors) {
         resolve: `gatsby-plugin-google-analytics`,
         options: {
           // The property ID; the tracking code won't be generated without it
-          trackingId: process.env.GATSBY_GA_ID,
+          trackingId: 'G-2VDF46QXFV',
           // Defines where to place the tracking script - `true` in the head and `false` in the body
           head: false,
           // Setting this parameter is optional
